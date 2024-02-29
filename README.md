@@ -1,2 +1,2 @@
 # think_like_an_octopus
-A repo to house content for a blog post on Python.
+A repo to house content for a blog post on Python. Links to follow.
