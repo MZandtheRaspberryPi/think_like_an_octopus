@@ -1,5 +1,6 @@
 # think_like_an_octopus
-A repo to house content for a blog post on Python. Links to follow.
+A repo to house content for a blog post on Python and parallel computing. A link to the post is [here](https://engineering.blackrock.com/think-like-an-octopus-in-python-a4beb65e04e3). In addition a .pdf is included in this repo of the post.
+
 
 For convenience, a docker image with the examples is included. Run it via:  
 ```
